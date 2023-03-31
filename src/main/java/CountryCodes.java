@@ -1,0 +1,7 @@
+public enum CountryCodes {
+
+    LT,
+
+
+
+}
