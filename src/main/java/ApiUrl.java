@@ -66,17 +66,4 @@ public class ApiUrl {
 
     }
 
-    // API
-    // https://www.baeldung.com/java-http-request
-    // https://dzone.com/articles/how-to-implement-get-and-post-request-through-simp
-
-
-    // JSON
-    // https://www.youtube.com/watch?v=zZoboXqsCNw
-    // https://stackoverflow.com/questions/9268099/json-array-get-length
-    // https://stackoverflow.com/questions/7497980/i-want-to-add-a-jsonobject-to-a-jsonarray-and-that-jsonarray-included-in-other-j
-    // https://stackoverflow.com/questions/18440098/org-json-simple-jsonarray-cannot-be-cast-to-org-json-simple-jsonobject
-
-
-    // Room 4 Rita
 }
