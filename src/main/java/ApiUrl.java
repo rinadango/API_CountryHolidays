@@ -44,11 +44,7 @@ public class ApiUrl {
                     JSONObject holidayData = (JSONObject) parsedJSON.get(i);
                     //System.out.println(holidayData.get("name"));
 
-                    //Object obj  = parser.parse(content);
-
-                    JSONParser newParse = new JSONParser();
-                    JSONArray newStuff = (JSONArray) newParse.parse(String.valueOf(holidayData.get("name")));
-
+                    JSONArray newStuff = (JSONArray) parse.parse(String.valueOf(holidayData.get("name")));
                     //System.out.println(newStuff);
 
                     JSONObject moreData = (JSONObject) newStuff.get(0);
